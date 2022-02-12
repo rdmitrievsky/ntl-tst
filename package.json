@@ -1,0 +1,24 @@
+{
+  "name": "ntl-tst",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdmitrievsky/ntl-tst.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rdmitrievsky/ntl-tst/issues"
+  },
+  "homepage": "https://github.com/rdmitrievsky/ntl-tst#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.3.1",
+    "parcel": "^2.3.1"
+  }
+}
